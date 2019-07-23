@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ud5_Ejemplo2</string>
+    <string name="fragment_uno">Fragment uno</string>
+    <string name="fragment_dos">Fragment dos</string>
+</resources>
